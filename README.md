@@ -25,6 +25,8 @@ Just Another Text Editor is a web app that allows you to create, edit, and save,
 
   ## Usage
 
+  ![image](https://github.com/CARhoden/PWA-Text-Editor/assets/101947931/2344e5cd-1c85-4a70-99f4-f07c9304156f)
+
   
   ## License
 
